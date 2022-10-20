@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 import './style.scss'
 import imageDestack from '../../images/imagem-destaque.png'
 import Pills from '../../components/Pills'
