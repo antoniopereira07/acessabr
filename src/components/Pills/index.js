@@ -10,7 +10,6 @@ const Pills = ({ local, onClick, selected }) => {
     )
 }
 
-// local foi colocado no lugar de text
 Pills.PropType = {
     local: PropTypes.string.isRequired,
     onClick: PropTypes.func,
