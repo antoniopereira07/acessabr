@@ -9,7 +9,7 @@ const Places = () => {
         <section className="places">
             <div className="places__header">       
                 <h2 className="places__title">
-                    { filteredPlace ? filteredPlace + ' ' : 'Locais ' }
+                    { filteredPlace ? filteredPlace + 's ' : 'Locais ' }
                 <span>Acessíveis</span></h2>
                 <div className="places__select">
                     <h5>Ordenar por:</h5>
