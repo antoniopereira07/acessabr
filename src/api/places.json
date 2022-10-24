@@ -1,0 +1,114 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "name": "Encontro das águas",
+            "image": "/places/encontro-das-águas.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long":"4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ponte Estaiada",
+            "image": "/places/ponte-estaiada.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long":"4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": false },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Teatro 4 de Setembro",
+            "image": "/places/teatro-4-de-setembro.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long":"4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Museu do Piauí",
+            "image": "/places/museu-do-piauí.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long":"4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Parque da Cidadania",
+            "image": "/places/parque-da-cidadania.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long":"4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        }
+    ]
+}
