@@ -1,7 +1,6 @@
-import React from "react"
+import React from 'react'
 import './curator.scss'
 import curatorPhoto from '../../images/antonio-pereira.png'
-
 
 function CuratorItem() {
 
@@ -19,7 +18,6 @@ function CuratorItem() {
             </div>
         </div>
     )
-
 
 }
 
