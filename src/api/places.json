@@ -4,7 +4,9 @@
             "id": 1,
             "name": "Encontro das águas",
             "image": "/places/encontro-das-águas.png",
+            "category": "Parque Ambiental",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "link": "",
             "location": {
                 "lat": "01234",
                 "long":"4321"
@@ -26,7 +28,9 @@
             "id": 2,
             "name": "Ponte Estaiada",
             "image": "/places/ponte-estaiada.png",
+            "category": "Ponte",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "link": "",
             "location": {
                 "lat": "01234",
                 "long":"4321"
@@ -48,7 +52,9 @@
             "id": 3,
             "name": "Teatro 4 de Setembro",
             "image": "/places/teatro-4-de-setembro.png",
+            "category": "Teatro",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "link": "",
             "location": {
                 "lat": "01234",
                 "long":"4321"
@@ -70,7 +76,9 @@
             "id": 4,
             "name": "Museu do Piauí",
             "image": "/places/museu-do-piauí.png",
+            "category": "Museu",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "link": "",
             "location": {
                 "lat": "01234",
                 "long":"4321"
@@ -92,7 +100,9 @@
             "id": 5,
             "name": "Parque da Cidadania",
             "image": "/places/parque-da-cidadania.png",
+            "category": "Parque",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "link": "",
             "location": {
                 "lat": "01234",
                 "long":"4321"
