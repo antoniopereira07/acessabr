@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Encontro das águas",
-            "image": "/places/encontro-das-águas.png",
+            "image": "/places/encontro-das-aguas.png",
             "category": "Parque",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "link": "",
@@ -75,7 +75,7 @@
         {
             "id": 4,
             "name": "Museu do Piauí",
-            "image": "/places/museu-do-piauí.png",
+            "image": "/places/museu-do-piaui.png",
             "category": "Museu",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "link": "",
